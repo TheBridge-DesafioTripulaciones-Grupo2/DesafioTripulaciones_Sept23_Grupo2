@@ -4,3 +4,6 @@
 [submodule "DesafioTripulaciones_Sept23_Grupo2_Marketing"]
 	path = DesafioTripulaciones_Sept23_Grupo2_Marketing
 	url = https://github.com/EloyCD/DesafioTripulaciones_Sept23_Grupo2_Marketing.git
+[submodule "DesafioTripulaciones_Sept23_Grupo2_data"]
+	path = DesafioTripulaciones_Sept23_Grupo2_data
+	url = https://github.com/EloyCD/DesafioTripulaciones_Sept23_Grupo2_data.git

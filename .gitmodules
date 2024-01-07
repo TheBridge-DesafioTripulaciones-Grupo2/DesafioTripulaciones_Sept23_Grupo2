@@ -10,3 +10,6 @@
 [submodule "DesafioTripulaciones_Sept23_Grupo2_UX-UI"]
 	path = DesafioTripulaciones_Sept23_Grupo2_UX-UI
 	url = https://github.com/EloyCD/DesafioTripulaciones_Sept23_Grupo2_UX-UI.git
+[submodule "DesafioTripulaciones_Sept23_Grupo2_Ciberseguridad"]
+	path = DesafioTripulaciones_Sept23_Grupo2_Ciberseguridad
+	url = https://github.com/EloyCD/DesafioTripulaciones_Sept23_Grupo2_Ciberseguridad.git
